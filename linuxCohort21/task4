@@ -1,0 +1,6 @@
+TASK 4
+
+1)recruits@recruits-All-Series:~$ locate umuzi
+/home/recruits/workspace/tmp/umuzi.md
+
+2)recruits@recruits-All-Series:~$ locate umuzi.md >> search_result.md
